@@ -24,27 +24,27 @@ This repository contains all the materials for this class, except grades, which 
  
 ##COURSE CALENDAR
 
-###WEEK 1  
+###[WEEK 1](https://github.com/jeffThompson/Design2/blob/master/Assignments/01_PhotocopierCollage.md)  
 Introductions and syllabus
 
 **Demo**  
 Navigating Github, using the scanner
 
 **Homework**  
-[Photocopier Collage](https://github.com/jeffThompson/Design2/blob/master/Assignments/01_PhotocopierCollage.md); bring in brushes, ink, and other materials for mark-making
-
-*Note for this week's assignment, see the [Design 2](https://github.com/jeffThompson/Design2/blob/master/Assignments/01_PhotocopierCollage.md) page*  
+[Photocopier Collage](https://github.com/jeffThompson/Design2/blob/master/Assignments/01_PhotocopierCollage.md); bring in brushes, ink, and other materials for mark-making. *Note for this week's assignment, see the [Design 2](https://github.com/jeffThompson/Design2/blob/master/Assignments/01_PhotocopierCollage.md) page.*  
 
 \- \- \-
 
-###WEEK 2  
+###[WEEK 2](https://github.com/jeffThompson/Design2/blob/master/Assignments/02_WoodTypeExperiments.md)  
 **DUE: Photocopier Collage**  
 
 **In class**  
 Add type to Photocopier Collage, print final results, install exhibition of collage projects; mark- and letterform-making with various materials
 
 **Homework**  
-Create vector typeface inspired by your mark-making experiments; bring a PDF or photocopy of a reading for the group
+Create vector typeface inspired by your mark-making experiments (note this is the same as the Design 2 project with small changes). *Note for this week's assignment, see the [Design 2](https://github.com/jeffThompson/Design2/blob/master/Assignments/02_WoodTypeExperiments.md) page.*  
+
+Please also bring a PDF (preferred) or photocopy of a reading for the group.
 
 \- \- \-
 
