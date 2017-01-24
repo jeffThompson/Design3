@@ -42,7 +42,7 @@ Navigating Github, using the scanner
 Add type to Photocopier Collage, print final results, install exhibition of collage projects; mark- and letterform-making with various materials
 
 **Homework**  
-Create vector typeface inspired by your mark-making experiments (note this is the same as the Design 2 project with small changes). *Note for this week's assignment, see the [Design 2](https://github.com/jeffThompson/Design2/blob/master/Assignments/02_WoodTypeExperiments.md) page.*  
+Create three vector letterforms inspired by your mark-making experiments. *Note for this week's assignment, see the [Design 2](https://github.com/jeffThompson/Design2/blob/master/Assignments/02_WoodTypeExperiments.md) page.*  
 
 Please also bring a PDF (preferred) or photocopy of a reading for the group.
 
