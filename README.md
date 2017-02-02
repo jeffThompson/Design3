@@ -55,7 +55,7 @@ Please also bring a PDF (preferred) or photocopy of a reading for the group.
 Using the CNC mill and etching press
 
 **In class**  
-Mill/print your typeface, scan, pick a complementary font
+Etch/print your typeface, scan, pick a complementary font
 
 **Homework**  
 Type Specimen Poster
@@ -63,13 +63,9 @@ Type Specimen Poster
 \- \- \-
 
 ###WEEK 4  
-**DUE: Type Specimen Poster**  
+**Jeff out of town – NO CLASS**  
 
-**In class**  
-Ideation session on major project theme
-
-**Homework**  
-Initial project findings: materials, images, textures, and inspiration
+DUE: Readings due to me as PDF, though.
 
 **Reading**  
 Group readings
@@ -77,6 +73,17 @@ Group readings
 \- \- \-
 
 ###WEEK 5  
+**DUE: Type Specimen Poster, Readings**  
+
+**In class**  
+Reading discussion, ideation session on major project theme
+
+**Homework**  
+Initial project findings: materials, images, textures, and inspiration
+
+\- \- \-
+
+###WEEK 6  
 **DUE: Initial project findings**  
 
 **In class**  
@@ -90,7 +97,7 @@ Continue research and inspiration gathering
 
 \- \- \-
 
-###WEEK 6  
+###WEEK 7  
 **DUE: One-on-one or smaller group research crits**  
 
 **Discussion**  
@@ -104,7 +111,7 @@ Wrap up project research into cohesive presentation with pitch for a design ques
 
 \- \- \-
 
-###WEEK 7  
+###WEEK 8  
 **DUE: Presentation of project research and design question**  
 
 **In class**  
@@ -115,7 +122,13 @@ Work on early iterations for in-progress critique
 
 \- \- \-
 
-###WEEK 8  
+###MAR 13–17  
+**SPRING BREAK – NO CLASS**
+Continue working, though 😊
+
+\- \- \-
+
+###WEEK 9  
 **DUE: First work-in-progress critique with class**  
 
 **In class**  
@@ -126,13 +139,7 @@ Continue working on project
 
 \- \- \-
 
-###MAR 13–17  
-**SPRING BREAK – NO CLASS**
-Continue working, though 😊
-
-\- \- \-
-
-###WEEK 9  
+###WEEK 10  
 **In class**  
 Work day
 
@@ -144,7 +151,7 @@ Excerpt from *Design of Everyday Things* (Norman), *Interaction Design is Dead. 
 
 \- \- \-
 
-###WEEK 10  
+###WEEK 11  
 **DUE: Second work-in-progress critique**  
 
 **Discussion**  
@@ -158,7 +165,7 @@ Continue working on project
 
 \- \- \-
 
-###WEEK 11  
+###WEEK 12  
 **In class**  
 Work day
 
@@ -167,7 +174,7 @@ Prepare work for third in-progress critique
 
 \- \- \-
 
-###WEEK 12  
+###WEEK 13  
 **DUE: Third work-in-progress critique**  
 
 **In class**  
@@ -178,7 +185,7 @@ Continue working on project
 
 \- \- \-
 
-###WEEK 13  
+###WEEK 14  
 **In class**  
 Field trip to Cooper Hewitt or MoMA
 
@@ -187,7 +194,7 @@ Continue working on project
 
 \- \- \-
 
-###WEEK 14  
+###WEEK 15  
 **Demo**  
 Documenting design projects
 
