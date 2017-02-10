@@ -72,7 +72,7 @@ Group readings
 
 \- \- \-
 
-###WEEK 5  
+###[WEEK 5](https://github.com/jeffThompson/Design3/blob/master/Assignments/FutureReadings.md)  
 **DUE: Type Specimen Poster, Readings**  
 
 **In class**  
