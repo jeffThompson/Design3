@@ -68,7 +68,7 @@ Type Specimen Poster
 DUE: Readings due to me as PDF, though.
 
 **Reading**  
-Group readings
+[Group readings for discussion](https://github.com/jeffThompson/Design3/blob/master/Assignments/FutureReadings.md)  
 
 \- \- \-
 
@@ -79,7 +79,7 @@ Group readings
 Reading discussion, ideation session on major project theme
 
 **Homework**  
-Initial project findings: materials, images, textures, and inspiration
+Initial project findings: gather materials, images, textures, and inspiration surrounding your project's area of focus. Please bring at least 50 things; no fewer than 10 should be physical objects, but more would be very much encouraged. Everything should be printed – videos and interactive media should be shown as an indicative screenshot (or multiple screenshots on one page).
 
 \- \- \-
 
@@ -87,38 +87,38 @@ Initial project findings: materials, images, textures, and inspiration
 **DUE: Initial project findings**  
 
 **In class**  
-Discussion of group readings
-
-**Homework**  
-Continue research and inspiration gathering
-
-**Reading**  
-*Design and Crime* (Foster) and *10 Principles* (Rams)
-
-\- \- \-
-
-###WEEK 7  
-**DUE: One-on-one or smaller group research crits**  
-
-**Discussion**  
-Foster/Rams readings and the role of decoration
+One-on-one or small group research crits
 
 **Demo**  
 Keeping a process book
+
+**Reading**  
+*Design and Crime* (Foster) and *10 Principles* (Rams)
 
 **Homework**  
 Wrap up project research into cohesive presentation with pitch for a design question to address
 
 \- \- \-
 
-###WEEK 8  
+###WEEK 7  
 **DUE: Presentation of project research and design question**  
+
+**Discussion**  
+Foster/Rams readings and the role of decoration
 
 **In class**  
 Feedback session with Design 2 class
 
 **Homework**  
 Work on early iterations for in-progress critique
+
+\- \- \-
+
+###WEEK 8  
+Work day
+
+**Homework**  
+Continue to work on early iterations for in-progress critique
 
 \- \- \-
 

@@ -8,3 +8,5 @@ For next week, please read these selections from your fellow designers on the to
 * Patrick: [link](https://www.smashingmagazine.com/2010/07/the-evolution-of-the-logo/)  
 * Billie: [link](https://github.com/jeffThompson/Design3/blob/master/Readings/FutureResearchReadings/Billie.pdf)  
 * Hope: [link](http://flavorwire.com/566034/the-future-of-the-physical-bookstore-amazon-vs-the-independents) and [link](http://harvardpolitics.com/online/fall-bookstores/)  
+
+Also of interest, you might want to check out [these course materials on Speculating Futures](http://speculatingfutures.club/).
