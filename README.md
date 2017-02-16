@@ -79,7 +79,7 @@ DUE: Readings due to me as PDF, though.
 Reading discussion, ideation session on major project theme
 
 **Homework**  
-Initial project findings: gather materials, images, textures, and inspiration surrounding your project's area of focus. Please bring at least 50 things; no fewer than 10 should be physical objects, but more would be very much encouraged. Everything should be printed – videos and interactive media should be shown as an indicative screenshot (or multiple screenshots on one page).
+Initial project findings: gather materials, images, textures, and inspiration surrounding your project's area of focus. Please bring at least 50 things; no fewer than 10 should be physical objects, but more would be very much encouraged. Everything should be printed – videos and interactive media should be shown as an indicative screenshot (or multiple screenshots on one page). You can combine multiple things (images, screenshots, scans, etc) onto one page, but think about the layout as a design decision too.
 
 \- \- \-
 
