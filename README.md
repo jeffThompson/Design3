@@ -89,32 +89,30 @@ Initial project findings: gather materials, images, textures, and inspiration su
 **In class**  
 One-on-one or small group research crits
 
-**Demo**  
-Keeping a process book
-
 **Reading**  
 *Design and Crime* (Foster) and *10 Principles* (Rams)
 
 **Homework**  
-Wrap up project research into cohesive presentation with pitch for a design question to address
+Narrow your area of investigation and continue researching more deeply
 
 \- \- \-
 
-###WEEK 7  
-**DUE: Presentation of project research and design question**  
-
+###WEEK 7    
 **Discussion**  
 Foster/Rams readings and the role of decoration
 
-**In class**  
-Feedback session with Design 2 class
+**Demo**  
+Keeping a process book
 
 **Homework**  
-Work on early iterations for in-progress critique
+Wrap up project research into cohesive presentation with pitch for a design question to address; start work on early iterations for in-progress critique
 
 \- \- \-
 
 ###WEEK 8  
+**DUE: Presentation of project research and design question**
+
+**In class**  
 Work day
 
 **Homework**  
