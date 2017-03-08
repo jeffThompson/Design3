@@ -116,7 +116,9 @@ Wrap up project research into cohesive presentation with pitch for a design ques
 Work day
 
 **Homework**  
-Continue to work on early iterations for in-progress critique
+Continue to work on early iterations for in-progress critique – this should be formally presented to the class (ie everything printed, formatted nicely) pretending we are a client. We should be able to *see* your progress, not just hear about it. Think about what first steps are most important for your project, and don't feel too bogged down yet in final ideas – things should continue to flow and iterate through the semester. Feel free to include some images/objects from your research phase as well.
+
+In addition, don't forget to keep documentation of this process! Take screenshots as you go, take photos of physical mockups. We'll be assembling all of this into a process book later in the semester.
 
 \- \- \-
 
