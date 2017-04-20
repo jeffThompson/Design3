@@ -206,6 +206,8 @@ Finish project deliverables; print and bind process book
 \- \- \-
 
 ### EXAM PERIOD  
+Friday, May 12 from 9–1
+
 **DUE: Final deliverables, process book, and documentation**  
 Critique of final projects
 
