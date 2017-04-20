@@ -12,7 +12,7 @@ I don’t want you to come up with a specific project yet, but it would be good 
 
 ***  
 
-##CONTENTS  
+## CONTENTS  
 This repository contains all the materials for this class, except grades, which can be found on Canvas.
 
 * **Assignments:** where all assignments will be posted, including deadlines and requirements.  
@@ -22,9 +22,9 @@ This repository contains all the materials for this class, except grades, which 
 
 ***  
  
-##COURSE CALENDAR
+## COURSE CALENDAR
 
-###[WEEK 1](https://github.com/jeffThompson/Design2/blob/master/Assignments/01_PhotocopierCollage.md)  
+### [WEEK 1](https://github.com/jeffThompson/Design2/blob/master/Assignments/01_PhotocopierCollage.md)  
 Introductions and syllabus
 
 **Demo**  
@@ -35,7 +35,7 @@ Navigating Github, using the scanner
 
 \- \- \-
 
-###[WEEK 2](https://github.com/jeffThompson/Design2/blob/master/Assignments/02_WoodTypeExperiments.md)  
+### [WEEK 2](https://github.com/jeffThompson/Design2/blob/master/Assignments/02_WoodTypeExperiments.md)  
 **DUE: Photocopier Collage**  
 
 **In class**  
@@ -48,7 +48,7 @@ Please also bring a PDF (preferred) or photocopy of a reading for the group.
 
 \- \- \-
 
-###WEEK 3  
+### WEEK 3  
 **DUE: Finished typeface design**  
 
 **Demo**  
@@ -62,7 +62,7 @@ Type Specimen Poster
 
 \- \- \-
 
-###WEEK 4  
+### WEEK 4  
 **Jeff out of town – NO CLASS**  
 
 DUE: Readings due to me as PDF, though.
@@ -72,7 +72,7 @@ DUE: Readings due to me as PDF, though.
 
 \- \- \-
 
-###[WEEK 5](https://github.com/jeffThompson/Design3/blob/master/Assignments/FutureReadings.md)  
+### [WEEK 5](https://github.com/jeffThompson/Design3/blob/master/Assignments/FutureReadings.md)  
 **DUE: Type Specimen Poster, Readings**  
 
 **In class**  
@@ -83,7 +83,7 @@ Initial project findings: gather materials, images, textures, and inspiration su
 
 \- \- \-
 
-###WEEK 6  
+### WEEK 6  
 **DUE: Initial project findings**  
 
 **In class**  
@@ -97,7 +97,7 @@ Narrow your area of investigation and continue researching more deeply
 
 \- \- \-
 
-###WEEK 7    
+### WEEK 7    
 **Discussion**  
 Foster/Rams readings and the role of decoration
 
@@ -109,7 +109,7 @@ Wrap up project research into cohesive presentation with pitch for a design ques
 
 \- \- \-
 
-###WEEK 8  
+### WEEK 8  
 **DUE: Presentation of project research and design question**
 
 **In class**  
@@ -122,13 +122,13 @@ In addition, don't forget to keep documentation of this process! Take screenshot
 
 \- \- \-
 
-###MAR 13–17  
+### MAR 13–17  
 **SPRING BREAK – NO CLASS**
 Continue working, though 😊
 
 \- \- \-
 
-###WEEK 9  
+### WEEK 9  
 **DUE: First work-in-progress critique with class**  
 
 **In class**  
@@ -139,7 +139,7 @@ Continue working on project
 
 \- \- \-
 
-###WEEK 10  
+### WEEK 10  
 **In class**  
 Work day
 
@@ -151,7 +151,7 @@ Excerpt from *Design of Everyday Things* (Norman), *Interaction Design is Dead. 
 
 \- \- \-
 
-###WEEK 11  
+### WEEK 11  
 **DUE: Second work-in-progress critique**  
 
 **Discussion**  
@@ -165,7 +165,7 @@ Continue working on project
 
 \- \- \-
 
-###WEEK 12  
+### WEEK 12  
 **In class**  
 Work day
 
@@ -174,7 +174,7 @@ Prepare work for third in-progress critique
 
 \- \- \-
 
-###WEEK 13  
+### WEEK 13  
 **DUE: Third work-in-progress critique**  
 
 **In class**  
@@ -185,21 +185,20 @@ Continue working on project
 
 \- \- \-
 
-###WEEK 14  
+### WEEK 14  
+**Demo**  
+Documenting design projects
+
 **In class**  
-Field trip to Cooper Hewitt or MoMA
+Come up with comprehensive plan for documenting your project
 
 **Homework**  
 Continue working on project
 
 \- \- \-
 
-###WEEK 15  
-**Demo**  
-Documenting design projects
-
-**In class**  
-Come up with comprehensive plan for documenting your project
+### WEEK 15  
+Work week  
 
 **Homework**  
 Finish project deliverables; print and bind process book
@@ -212,7 +211,7 @@ Critique of final projects
 
 ***  
 
-##REQUIRED MATERIALS  
+## REQUIRED MATERIALS  
 Towards the end of the semester we’ll be working more digitally, but at the start you should bring these supplies every week. Purchase locally, or see [this list](http://a.co/7Bj19NL). Required and suggested readings will be provided as PDFs online – there is no required textbook.
 
 * **Laptop with Adobe Illustrator, InDesign, and Photoshop**  
